@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://<username>.github.io/<repository-name>",
+  "homepage": "https://NRangaMadhav.github.io/groundnut_diseases_prediction",
   "eslintConfig": {
     "extends": [
       "react-app",
